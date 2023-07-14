@@ -9,7 +9,7 @@ use Illuminate\Support\Carbon;
 
 class HomeController extends Controller
 {
-    //
+    // tes
     public function __construct()
 {
 $this->middleware('auth');
